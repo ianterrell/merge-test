@@ -1,3 +1,4 @@
 # merge-test
 
 a
+b
